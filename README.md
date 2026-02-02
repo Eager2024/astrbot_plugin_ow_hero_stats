@@ -1,11 +1,11 @@
 # 📊 AstrBot OW2 Hero Stats Plugin#📊AstrBot OW2英雄属性插件#📊AstrBot OW2英雄属性插件
 
-<div align="center">   <div align="center"><div align   对齐="center"   "center">   <div align   对齐="center"   "center">
+<div align   对齐="center"   "center">   <div align   对齐="center"   "center"><div align   对齐   对齐="center"   "center"   "center">   <div align   对齐   对齐="center"   "center"   "center">
 
 **守望先锋 2（国服）数据可视化查询插件**
 
 [![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-violet)](https://github.com/Soulter/AstrBot)[] [] (https://img.shields.io/badge/AstrBot-Plugin-violet AstrBot !) (https://github.com/Soulter/AstrBot)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)(! (Python)(蓝)”,https://img.shields.io/badge/python - 3.8] (https://www.python.org/)(! (Python)(蓝)”,https://img.shields.io/badge/python - 3.8] (https://www.python.org/) (!（Python）（）”,https://img.shields。Io /badge/python - 3.8] （https://www.python.org/）
+[![Python](https://img.shields.io/badge/Python-3.8+-bluehttps://img.shields.io/badge/python - 3.8蓝)(https://img.shields.io/badge/Python-3.8 -bluehttps://img.shields.io/badge/python - 3.8蓝)](https://www.python.org/)(! (Python)(蓝)”,https://img.shields.io/badge/python - 3.8] (https://www.python.org/)(! (Python)(蓝)”,https://img.shields.io/badge/python - 3.8] (https://www.python.org/) (!（Python）（）”,https://img.shields。Io /badge/python - 3.8] （https://www.python.org/）
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)[!(许可证)(https://img.shields.io/badge/License-MIT-green)](。/许可证)
 
 数据来源：暴雪国服官方接口 | 适配 AstrBot 框架
@@ -48,7 +48,7 @@ git clone [https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git](https:
 
 本插件依赖 `Pillow` 进行绘图，依赖 `requests` 获取数据：
 
-```bash   ”“bash   “bash”;“bash
+```bash   ”“bash   “bash”;“bash```bash   ”“bash   “bash”;“bash
 pip install pillow requestsPIP安装枕头要求
 
 ```
