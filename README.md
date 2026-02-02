@@ -70,8 +70,7 @@ pip install pillow requests
 **图片文件名必须是英雄的英文 ID（小写）**，格式为 `.png`。
 
 1. **新建目录**：`data/plugins/astrbot_plugin_ow_hero_stats/icons/`
-2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main/normal)。2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main
-ormal)。
+2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main/normal](https://github.com/drippinghere/overwatch2-hero-icons.git)。
 3. **放入图片**：将下载的 `ana.png`, `genji.png` 等图片放入 `icons` 文件夹。
 
 ---
