@@ -1,18 +1,20 @@
-# 📊 AstrBot OW2 Hero Stats Plugin
+# 📊 AstrBot OW2 Hero Stats Plugin#📊AstrBot OW2英雄属性插件📊AstrBot OW2英雄属性插件
 
-<div align="center">
+<div align="center">   <div align   对齐="center"   "center">
 
 **守望先锋 2（国服）数据可视化查询插件**
 
-[![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-violet)](https://github.com/Soulter/AstrBot)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+[![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-violet)](https://github.com/Soulter/AstrBot)[] [] (https://img.shields.io/badge/AstrBot-Plugin-violet AstrBot !) (https://github.com/Soulter/AstrBot)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)(! (Python)(蓝)”,https://img.shields.io/badge/python - 3.8] (https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)[!(许可证)(https://img.shields.io/badge/License-MIT-green)](。/许可证)
 
 数据来源：暴雪国服官方接口 | 适配 AstrBot 框架
 
-</div>
+</div>   < / div>
 
 ## 📖 简介
+菜鸟大学生用gemini为自己的Q群机器人Echo写的查询英雄数据的插件，算是本人第一个正式的上传github的插件，希望大伙多多包涵，有bug或者建议欢迎提出。
+做这个的初衷是心血来潮为ow q群做了机器人，但查找插件市场却只有一个国际服战绩查询插件(https://github.com/TZYCeng/astrbot_plugin_owcx),同时我也受到该作者和群友启发，遂在gemini的指（脑）导（控）下尝试制作，含人量很低（
 
 这是一个专为 [AstrBot](https://github.com/Soulter/AstrBot) 设计的守望先锋 2（国服）数据查询插件。
 
@@ -38,9 +40,9 @@
 ### 1. 安装插件
 进入 AstrBot 的插件目录并克隆本项目：
 
-```bash
-cd data/plugins/
-git clone [https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git](https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git)
+```bash   ”“bash
+cd data/plugins/   数据/插件/ cd
+git clone [https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git](https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git)git clone [https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git](https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git]
 
 ```
 
@@ -48,8 +50,8 @@ git clone [https://github.com/Eager2024/astrbot_plugin_ow_hero_stats.git](https:
 
 本插件依赖 `Pillow` 进行绘图，依赖 `requests` 获取数据：
 
-```bash
-pip install pillow requests
+```bash   ”“bash
+pip install pillow requestsPIP安装枕头要求
 
 ```
 
