@@ -1,10 +1,15 @@
-# 📊 AstrBot OW2 Hero Stats Plugin#📊AstrBot OW2英雄属性插件
+这是一个完整、排版精美且包含了你所有要求的 `README.md` 文件。你可以直接点击代码块右上角的“复制”按钮，然后粘贴到你的项目中。
 
-<div align="center">   <div align="center">
+---
+
+```markdown   ”“减价
+# 📊 AstrBot OW2 Hero Stats Plugin
+
+<div align="center">
 
 **守望先锋 2（国服）数据可视化查询插件**
 
-[![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-violet)](https://github.com/Soulter/AstrBot)[] [] (https://img.shields.io/badge/AstrBot-Plugin-violet AstrBot !) (https://github.com/Soulter/AstrBot)
+[![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-violet)](https://github.com/Soulter/AstrBot)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 
@@ -70,11 +75,7 @@ pip install pillow requests
 **图片文件名必须是英雄的英文 ID（小写）**，格式为 `.png`。
 
 1. **新建目录**：`data/plugins/astrbot_plugin_ow_hero_stats/icons/`
-2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main/normalhttps://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main
-ormal)。2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main
-ormal)。2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main
-ormal)。2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://www.google.com/search?q=https://github.com/drippinghere/overwatch2-hero-icons/tree/main
-ormal)。
+2. **下载资源**：推荐使用 [此仓库的 normal 文件夹](https://github.com/drippinghere/overwatch2-hero-icons/tree/223584141bf91b838459ef159998f98a11f4119a/normal)。
 3. **放入图片**：将下载的 `ana.png`, `genji.png` 等图片放入 `icons` 文件夹。
 
 ---
@@ -136,8 +137,29 @@ A: 缺少头像文件或文件名不对。请检查 `icons` 文件夹，并确�
 **Q: 为什么没有显示“冠军”段位的数据？**
 A: 暴雪官方接口有时未开放冠军段位数据，或者该段位样本过少，此时会显示无数据。
 
-**Q: 数据更新频率是多少？**
-A: 插件每 30 分钟会自动从暴雪服务器拉取一次最新数据。
+---
+
+## 👨‍💻 关于作者 & 开发幕后
+
+👋 **Hello!**   👋* *用人!*＊
+我是名为 Echo 的 QQ 群机器人的持有者Eager，也是一名正在摸索的菜鸟大学生。
+
+这是我**第一个**正式上传到 GitHub 的开源项目。起初是因为心血来潮想给群友整一个查国服数据的插件，但在 AstrBot 插件市场搜了一圈，只发现了查询国际服战绩的 [astrbot_plugin_owcx](https://github.com/TZYCeng/astrbot_plugin_owcx)。
+
+受到该作者以及群友们的启发，我决定自己动手（虽然大部分是动嘴）。
+
+🤖 **特别说明**：
+本项目是在 **Google Gemini** 的全程指（脑）导（控）下完成的。代码的“含人量”极低，主打一个 AI 编程。
+作为新手作品，难免会有 BUG 或设计不周的地方，希望大家多多包涵！如果你有任何建议或发现问题，欢迎提交 Issue，我会尝试（让 Gemini）修复它。
+
+---
+
+## 🙏 致谢 & 资源来源
+
+* **灵感来源**：感谢 [astrbot_plugin_owcx](https://github.com/TZYCeng/astrbot_plugin_owcx) 项目提供的灵感。
+* **美术资源**：插件中使用的全套英雄头像图标来自开源仓库 [overwatch2-hero-icons](https://github.com/drippinghere/overwatch2-hero-icons/tree/223584141bf91b838459ef159998f98a11f4119a/normal)。* **美术资源**：插件中使用的全套英雄头像图标来自开源仓库 [overwatch2-hero-icons](https://github.com/drippinghere/overwatch2-hero-icons/tree/223584141bf91b838459ef159998f98a11f4119a
+ormal)。
+* **AI 协力**：Google Gemini 2.0 Flash (Thinking)** *AI ** *：谷歌Gemini 2.0 Flash（思考）
 
 ---
 
