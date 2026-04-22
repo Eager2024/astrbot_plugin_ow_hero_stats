@@ -16,7 +16,7 @@ class OWHeroStatsPlugin(Star):
         super().__init__(context)
         # === 配置 ===
         self.API_URL = "https://webapi.blizzard.cn/ow-armory-server/hero_leaderboard"
-        self.CURRENT_SEASON = 20
+        self.CURRENT_SEASON = 2
         self.CACHE_TTL = 1800  # 缓存 30 分钟
         
         # 路径设置
@@ -73,7 +73,9 @@ class OWHeroStatsPlugin(Star):
             "cassidy": "卡西迪", "genji": "源氏", "soldier-76": "士兵：76", "bastion": "堡垒", 
             "ashe": "艾什", "reaper": "死神", "sojourn": "索杰恩", "hanzo": "半藏", 
             "symmetra": "秩序之光", "pharah": "法老之鹰", "widowmaker": "黑百合", "echo": "回声", 
-            "junkrat": "狂鼠", "mei": "小美", "torbjorn": "托比昂", "tracer": "猎空", "sombra": "黑影"
+            "junkrat": "狂鼠", "mei": "小美", "torbjorn": "托比昂", "tracer": "猎空", "sombra": "黑影", 
+            "mizuki": "瑞稀", "jetpackcat": "飞天猫", "anran": "安燃", "emre": "埃姆雷", "domina": "金驭", 
+            "sierra": "西拉"
         }
         self.CN_TO_HERO_ID = {v: k for k, v in self.HERO_NAME_MAP.items()}
 
