@@ -16,7 +16,7 @@ class OWHeroStatsPlugin(Star):
         super().__init__(context)
         # === 配置 ===
         self.API_URL = "https://webapi.blizzard.cn/ow-armory-server/hero_leaderboard"
-        self.CURRENT_SEASON = 1
+        self.CURRENT_SEASON = 2
         self.CACHE_TTL = 1800  # 缓存 30 分钟
         
         # 路径设置
